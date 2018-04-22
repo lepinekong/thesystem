@@ -108,7 +108,7 @@ Select with **Ctrl+A** then copy with **Ctrl+C**.
 ### Choose a target folder
 
 
-- By default it is C:\red\demos\ReAdABLE.Human.Format but you can choose type or paste any folder 
+- By default it is C:\red\demos\ReAdABLE.Human.Format but you can type any folder 
 for example C:\rebol\.system.user\.code\.domains\.apps\Authoring\app\github.pages\github.pages.doc
 - Validate.
 
