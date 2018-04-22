@@ -127,7 +127,7 @@ under Visual Studio Code.
 
 
 You can write your own article by modifying the content of the template 
-including by adding new paragraph.
+- if needed by deleting or adding new paragraphs.
 
 >Beware: Paragraphs labels can be almost any Red variable name (no space allowed) 
 but they should be different (for example P1, P2,... or Goal-of-this-article, Pre-requisites,...)
