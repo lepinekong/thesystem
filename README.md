@@ -40,7 +40,6 @@ The first time you visit it, you'll get a 404 error page:
 You must first create a repository 
 by clicking on the "+" icon near your user icon on the top right.
 
-![https://i.imgur.com/JtBG318.png](https://i.imgur.com/JtBG318.png){:height="513px" width="600px"}
 
 ![https://i.imgur.com/gyUeGxK.png](https://i.imgur.com/gyUeGxK.png)
                     
