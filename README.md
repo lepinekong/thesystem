@@ -10,7 +10,7 @@ The purpose of this article is to show how to easily build a Github page with th
 
 ![https://i.imgur.com/eROgcDy.png](https://i.imgur.com/eROgcDy.png)
                     
-### Requirements
+### Pre-requisites
 
 
 - You should have a Github activated account
@@ -81,17 +81,17 @@ Click on .ReAdABLE.HumanFormat.deploy.ps1 "Raw" button on the right side
 
 ![https://i.imgur.com/XEjSXOy.png](https://i.imgur.com/XEjSXOy.png)
                     
-### Copy the whole content
+### Copy the whole content to clipboard
 
 
 Select with Ctrl+A then copy with Ctrl+C. 
 
 ![https://i.imgur.com/5hZl4Yj.png](https://i.imgur.com/5hZl4Yj.png)
                     
-### Paste the whole content in Powershell
+### Paste the whole content in Powershell console
 
 
-- Run Powershell
+- Run Powershell Console (in windows search type "Powershell")
 - Then right-click with the mouse on it to paste the content
 - Validate to execute
 
@@ -129,7 +129,7 @@ You can write your own article by modifying the content of the template
 including by adding new paragraph.
 
 >Beware: Paragraphs labels can be almost any Red variable name (no space allowed) 
-but they should be different (for example P1, P2,... or Goal-of-this-article, Requirements,...)
+but they should be different (for example P1, P2,... or Goal-of-this-article, Pre-requisites,...)
 so P, P,... will not work well when converting to Markdown.
 
 ![https://i.imgur.com/oAi1Vwi.png](https://i.imgur.com/oAi1Vwi.png)
