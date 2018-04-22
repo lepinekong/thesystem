@@ -51,9 +51,9 @@ doesn't show 404 error any more.
 Click on settings
 ![https://i.imgur.com/crS1mCk.png](https://i.imgur.com/crS1mCk.png)
                     
-### Set a theme
+### Choose a theme
 
-You can set a theme for your site
+You can set a theme for your site by clicking on button "Choose a theme"
 ![https://i.imgur.com/y9DTpfR.png](https://i.imgur.com/y9DTpfR.png)
                     
 ### Pick one them
