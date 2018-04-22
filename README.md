@@ -142,7 +142,8 @@ You can write your own article by modifying the content of the template
 but they should be different (for example P1, P2,... or Goal-of-this-article, Pre-requisites,...)
 so P, P,... will not work well when converting to Markdown.
 
->Within paragraph you can use markdown formatting including block code
+>Within paragraph you can use markdown formatting including block code 
+and inline image (see example with paragraph 16 below "Convert to markdown")
 
 >If your title is empty string you'll see ### (in next version, we'll put an alert)
 
@@ -154,6 +155,7 @@ so P, P,... will not work well when converting to Markdown.
 - Right-click on the page for popup menu
 - Select **"Run Red Script"** or **F6**: program should run in Terminal window below 
 the article window.
+![https://i.imgur.com/OYDpayD.png](https://i.imgur.com/OYDpayD.png)
 
 ![https://i.imgur.com/SSIuO66.png](https://i.imgur.com/SSIuO66.png)
                     
