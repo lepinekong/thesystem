@@ -153,9 +153,11 @@ and inline image (see example with paragraph 16 below "Convert to markdown")
 
 
 - Right-click on the page for popup menu
-- Select **"Run Red Script"** or **F6**: program should run in Terminal window below 
-the article window.
+- Select **"Run Red Script"** or **F6**:
 ![https://i.imgur.com/OYDpayD.png](https://i.imgur.com/OYDpayD.png)
+
+Program should run in Terminal window below 
+the article window.
 
 ![https://i.imgur.com/SSIuO66.png](https://i.imgur.com/SSIuO66.png)
                     
