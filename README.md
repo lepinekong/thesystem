@@ -20,6 +20,9 @@ and [Red extension](https://marketplace.visualstudio.com/items?itemName=red-auto
 so that you can run red script easily 
 - Or use any other text editor and run a batch file provided.
 
+> Tips: for quick image upload, I'm using [https://imgur.com/upload](https://imgur.com/upload)
+which supports pasting image directly in the browser.
+
 ![https://i.imgur.com/OYDpayD.png](https://i.imgur.com/OYDpayD.png)
                     
 ### Know the homepage url
