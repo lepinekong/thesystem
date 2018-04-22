@@ -151,8 +151,8 @@ so P, P,... will not work well when converting to Markdown.
 ### Convert to markdown
 
 
-- Right-click on the page
-- Select "Run Red Script" or F6: program should run in Terminal window below 
+- Right-click on the page for popup menu
+- Select **"Run Red Script"** or **F6**: program should run in Terminal window below 
 the article window.
 
 ![https://i.imgur.com/SSIuO66.png](https://i.imgur.com/SSIuO66.png)
