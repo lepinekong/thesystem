@@ -56,7 +56,7 @@ Click on settings
 You can set a theme for your site
 ![https://i.imgur.com/y9DTpfR.png](https://i.imgur.com/y9DTpfR.png)
                     
-### 
+### Pick one them
 
 
 by choosing one theme among those available:
