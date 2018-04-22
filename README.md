@@ -6,7 +6,7 @@
 ### Goal of this article
 
 
-The purpose of this article is to show how to easily build a Github page with the **ReAdABLE Human Format**.
+The purpose of this article is to show how to easily build a Github page with the [**ReAdABLE Human Format**](https://medium.com/@lepinekong/readable-human-format-md-8fda1869ef75).
 
 ![https://i.imgur.com/eROgcDy.png](https://i.imgur.com/eROgcDy.png)
                     
