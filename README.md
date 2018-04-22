@@ -128,6 +128,10 @@ under Visual Studio Code.
 You can write your own article by modifying the content of the template 
 including by adding new paragraph.
 
+>Beware: Paragraphs labels can be almost any Red variable name (no space allowed) 
+but they should be different (for example P1, P2,... or Goal-of-this-article, Requirements,...)
+so P, P,... will not work well when converting to Markdown.
+
 ![https://i.imgur.com/oAi1Vwi.png](https://i.imgur.com/oAi1Vwi.png)
                     
 ### Convert to markdown
