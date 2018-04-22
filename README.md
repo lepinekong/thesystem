@@ -13,8 +13,9 @@ The purpose of this article is to show how to easily build a Github page with th
 ### Know the homepage url
 
 
-The homepage url of my homepage is [http://lepinekong.github.io/](http://lepinekong.github.io/)
-The first time I visited it, I got a 404 error page:
+The homepage url of my homepage is [http://lepinekong.github.io/](http://lepinekong.github.io/).
+
+The first time you visit it, you'll get a 404 error page:
 
 ![https://i.imgur.com/5llGB2W.png](https://i.imgur.com/5llGB2W.png)
                     
