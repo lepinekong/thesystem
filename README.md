@@ -10,6 +10,17 @@ The purpose of this article is to show how to easily build a Github page with th
 
 ![https://i.imgur.com/eROgcDy.png](https://i.imgur.com/eROgcDy.png)
                     
+### Requirements
+
+
+- You should have a Github activated account
+- You should have [VSCode](https://code.visualstudio.com/) 
+and [Red extension](https://marketplace.visualstudio.com/items?itemName=red-auto.red) installed 
+so that you can run red script easily 
+- Or use any other text editor and run a batch file provided.
+
+![https://i.imgur.com/OYDpayD.png](https://i.imgur.com/OYDpayD.png)
+                    
 ### Know the homepage url
 
 
@@ -29,7 +40,7 @@ You must first create a repository.
 ### Check your homepage
 
 
-You can check your homepage at https://lepinekong.github.io/
+You can check that your homepage again in my case at https://lepinekong.github.io/
 doesn't show 404 error any more.
 
 ![https://i.imgur.com/4vQbAvj.png](https://i.imgur.com/4vQbAvj.png)
@@ -41,27 +52,30 @@ Click on settings
                     
 ### Set a theme
 
-
+You can set a theme for your site
 ![https://i.imgur.com/y9DTpfR.png](https://i.imgur.com/y9DTpfR.png)
                     
-### Choose a theme
+### 
 
 
-You can check your homepage at https://lepinekong.github.io/
-to see your new homepage updated.
+by choosing one theme among those available:
 
 ![https://i.imgur.com/ym4xqWG.png](https://i.imgur.com/ym4xqWG.png)
                     
 ### Revisit homepage
 
-
+ You can check your homepage once more in my case at https://lepinekong.github.io/
+you should see your new homepage updated:
 ![https://i.imgur.com/bIV0Dbn.png](https://i.imgur.com/bIV0Dbn.png)
                     
 ### Setting up a ReAdABLE Human Format Folder
 
 
 
+Next let's write the content in ReAdABLE Human Format.
+
 Goto [https://gist.github.com/lepinekong/b59fa3e8d386dea1ebaa1a096488c542](https://gist.github.com/lepinekong/b59fa3e8d386dea1ebaa1a096488c542)
+
 Click on .ReAdABLE.HumanFormat.deploy.ps1 "Raw" button on the right side
 
 
@@ -129,27 +143,31 @@ the article window.
 
 
 - Select markdown file generated (.md extension)
-- Preview it in VSCode
+- Preview it in VSCode if wanted
+- Copy the markdown to clipboard
 
 ![https://i.imgur.com/vffAcYf.png](https://i.imgur.com/vffAcYf.png)
+                    
+### Edit markdown on Github
+
+On Github homepage click on the pen icon to edit
+![https://i.imgur.com/woXuUlQ.png](https://i.imgur.com/woXuUlQ.png)
+                    
+### Paste the new markdown
+
+
+You can then paste the new markdown and click commit
+
+![https://i.imgur.com/JX1e0IX.png](https://i.imgur.com/JX1e0IX.png)
                     
 ### Conclusion
 
 
-This format has very little formalism to memorize so is easier to write or much more productive than JSON, YAML or even our beloved Markdown (just try the ReAdABLE Human Format, you'll really see!):
+In this tutorial, you have learned how to:
 
-- Enclose Structures and Sub-Structures within Brackets 
-- Each Structure can define as many fields as needed using the format
-
-> Key: Value
-
-- String value use `"` or `{}`, this latter accepts multiple-lines content including markdown
-
-The source of this article in **ReAdABLE Human Format** is available at 
-[https://gist.github.com/lepinekong/b59fa3e8d386dea1ebaa1a096488c542](https://gist.github.com/lepinekong/b59fa3e8d386dea1ebaa1a096488c542)
-
-Just paste the content of .ReAdABLE.HumanFormat.deploy.ps1 in Powershell at:
-https://gist.github.com/lepinekong/b59fa3e8d386dea1ebaa1a096488c542
-It will install Red and the source of the Article, the markdown and a batch file to re-execute it.
+- Create a Github repository and publish a homepage 
+- Create the content of the homepage in ReAdABLE Human Format
+- Convert the ReAdABLE Human Format into Markdown
+- Update the Markdown on Github Homepage
 
 
