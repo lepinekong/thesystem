@@ -92,7 +92,7 @@ Click on **.ReAdABLE.HumanFormat.deploy.ps1** **"Raw" button** on the right side
 ### Copy the whole content to clipboard
 
 
-Select with Ctrl+A then copy with Ctrl+C. 
+Select with **Ctrl+A** then copy with **Ctrl+C**. 
 
 ![https://i.imgur.com/5hZl4Yj.png](https://i.imgur.com/5hZl4Yj.png)
                     
