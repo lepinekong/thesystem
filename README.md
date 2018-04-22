@@ -77,7 +77,7 @@ Next let's write the content in ReAdABLE Human Format.
 
 Go to [https://gist.github.com/lepinekong/b59fa3e8d386dea1ebaa1a096488c542](https://gist.github.com/lepinekong/b59fa3e8d386dea1ebaa1a096488c542)
 
-Click on .ReAdABLE.HumanFormat.deploy.ps1 "Raw" button on the right side
+Click on **.ReAdABLE.HumanFormat.deploy.ps1** **"Raw" button** on the right side
 
 
 ![https://i.imgur.com/XEjSXOy.png](https://i.imgur.com/XEjSXOy.png)
