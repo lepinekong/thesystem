@@ -116,7 +116,8 @@ for example C:\rebol\.system.user\.code\.domains\.apps\Authoring\app\github.page
 
 You should see:
 - A Red console running the markdown generator on the sample article
-- A popup window asking to confirm source download: you can confirm this latter
+- A popup window asking to confirm **source download**: 
+you must **confirm** this latter if you want to modify the article in ReAdABLE format.
 
 ![https://i.imgur.com/oo1xFW6.png](https://i.imgur.com/oo1xFW6.png)
                     
