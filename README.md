@@ -114,13 +114,13 @@ You should see:
 
 ![https://i.imgur.com/oo1xFW6.png](https://i.imgur.com/oo1xFW6.png)
                     
-### Rename the folder and open it with Visual Studio Code
+### Optionally rename the folder and open it with Visual Studio Code
 
 
-We prefer to rename the folder to doc, it is shorter and gets a nice icon 
+You can rename the folder to doc if preferred, it is shorter and gets a nice icon 
 under Visual Studio Code.
 
-![https://i.imgur.com/cqXy1Jm.png](https://i.imgur.com/cqXy1Jm.png)
+![https://i.imgur.com/cvs7aof.png](https://i.imgur.com/cvs7aof.png)
                     
 ### Write your article
 
