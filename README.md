@@ -120,7 +120,7 @@ You should see:
 ### Optionally rename the folder and open it with Visual Studio Code
 
 
-You can rename the folder to doc if preferred, it is shorter and gets a nice icon 
+You can rename the folder to **doc** if preferred, it is shorter and gets a **nice icon** 
 under Visual Studio Code.
 
 ![https://i.imgur.com/cvs7aof.png](https://i.imgur.com/cvs7aof.png)
