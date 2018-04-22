@@ -6,7 +6,8 @@
 ### Goal of this article
 
 
-The purpose of this article is to show how to easily build a Github page with the [**ReAdABLE Human Format**](https://medium.com/@lepinekong/readable-human-format-md-8fda1869ef75).
+The purpose of this article is to show how to easily build a Github page 
+with the [**ReAdABLE Human Format**](https://medium.com/@lepinekong/readable-human-format-md-8fda1869ef75).
 
 ![https://i.imgur.com/eROgcDy.png](https://i.imgur.com/eROgcDy.png)
                     
@@ -101,7 +102,8 @@ Select with Ctrl+A then copy with Ctrl+C.
 ### Choose a target folder
 
 
-- By default it is C:\red\demos\ReAdABLE.Human.Format but you can choose type or paste any folder for example C:\rebol\.system.user\.code\.domains\.apps\Authoring\app\github.pages\github.pages.doc
+- By default it is C:\red\demos\ReAdABLE.Human.Format but you can choose type or paste any folder 
+for example C:\rebol\.system.user\.code\.domains\.apps\Authoring\app\github.pages\github.pages.doc
 - Validate.
 
 ![https://i.imgur.com/4aAxUPc.png](https://i.imgur.com/4aAxUPc.png)
@@ -132,6 +134,8 @@ You can write your own article by modifying the content of the template
 >Beware: Paragraphs labels can be almost any Red variable name (no space allowed) 
 but they should be different (for example P1, P2,... or Goal-of-this-article, Pre-requisites,...)
 so P, P,... will not work well when converting to Markdown.
+
+>Within paragraph you can use markdown formatting including block code
 
 >If your title is empty string you'll see ### (in next version, we'll put an alert)
 
