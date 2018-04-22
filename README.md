@@ -40,7 +40,7 @@ You must first create a repository.
 ### Check your homepage
 
 
-You can check that your homepage again in my case at https://lepinekong.github.io/
+You can check that your homepage again in my case at [http://lepinekong.github.io/](http://lepinekong.github.io/)
 doesn't show 404 error any more.
 
 ![https://i.imgur.com/4vQbAvj.png](https://i.imgur.com/4vQbAvj.png)
@@ -64,7 +64,7 @@ by choosing one theme among those available:
                     
 ### Revisit homepage
 
- You can check your homepage once more in my case at https://lepinekong.github.io/
+ You can check your homepage once more in my case at [http://lepinekong.github.io/](http://lepinekong.github.io/)
 you should see your new homepage updated:
 ![https://i.imgur.com/bIV0Dbn.png](https://i.imgur.com/bIV0Dbn.png)
                     
