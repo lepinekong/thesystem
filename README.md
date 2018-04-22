@@ -41,7 +41,7 @@ by clicking on the "+" icon near your user icon on the top right.
 ### Check your homepage
 
 
-You can check that your homepage again in my case at [http://lepinekong.github.io/](http://lepinekong.github.io/)
+You can check that your homepage in my case at [http://lepinekong.github.io/](http://lepinekong.github.io/)
 doesn't show 404 error any more.
 
 ![https://i.imgur.com/4vQbAvj.png](https://i.imgur.com/4vQbAvj.png)
