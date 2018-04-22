@@ -80,7 +80,7 @@ you should see your new homepage updated:
 
 
 
-Next let's write the content in ReAdABLE Human Format.
+Next let's write the content in [**ReAdABLE Human Format**](https://medium.com/@lepinekong/readable-human-format-md-8fda1869ef75).
 
 Go to [https://gist.github.com/lepinekong/b59fa3e8d386dea1ebaa1a096488c542](https://gist.github.com/lepinekong/b59fa3e8d386dea1ebaa1a096488c542)
 
@@ -188,8 +188,8 @@ You can then paste the new markdown and click commit
 In this tutorial, you have learned how to:
 
 - Create a Github repository and publish a homepage 
-- Create the content of the homepage in ReAdABLE Human Format
-- Convert the ReAdABLE Human Format into Markdown
+- Create the content of the homepage in [**ReAdABLE Human Format**](https://medium.com/@lepinekong/readable-human-format-md-8fda1869ef75)
+- Convert the [**ReAdABLE Human Format**](https://medium.com/@lepinekong/readable-human-format-md-8fda1869ef75) into Markdown
 - Update the Markdown on Github Homepage
 
 You can find the source of this tutorial here: 
