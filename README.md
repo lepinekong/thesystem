@@ -160,7 +160,7 @@ the article window.
 On Github homepage click on the pen icon to edit
 ![https://i.imgur.com/woXuUlQ.png](https://i.imgur.com/woXuUlQ.png)
                     
-### Paste the new markdown
+### Paste and commit
 
 
 You can then paste the new markdown and click commit
