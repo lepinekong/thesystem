@@ -3,16 +3,12 @@
 ## using the ReAdABLE Human Format
 
 
-### 
-
-This is a continuously updated article, come back from time to time.
-
 ### Goal of this article
 
 
 The purpose of this article is to show how to easily build a Github page with the **ReAdABLE Human Format**.
 
-![images/no-image.png](images/no-image.png)
+![https://i.imgur.com/eROgcDy.png](https://i.imgur.com/eROgcDy.png)
                     
 ### Know the homepage url
 
